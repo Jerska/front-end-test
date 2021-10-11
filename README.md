@@ -32,7 +32,7 @@ As a front-end dev, you&rsquo;re asked to build a small prototype that &mdash; u
 - The dataset used for this search is available in the [`dataset/`](./dataset) folder.
   It contains 5000 restaurants: [`restaurants.json`](./dataset/restaurants.json).
   Note: the API it is based upon is not up-to-date anymore.
-  You can use any placeholder you'd like (here's [an example one](https://placeimg.com/160/160/arch)).
+  You can use any placeholder you'd like (you can use a service for this, e.g. [this one](https://github.com/Jerska/placeholders) or [this one](https://github.com/Jerska/placeholders)).
 - Feel free to use any front-end tooling with which you&rsquo;re most comfortable.  
 - The blue highlight in the sidebar is an active/hover state.
 - For payment options, we should **only** have: AMEX/American Express, Visa, Discover, and MasterCard.  
