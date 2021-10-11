@@ -31,6 +31,8 @@ As a front-end dev, you&rsquo;re asked to build a small prototype that &mdash; u
   If you have a UI/UX that you believe improves upon the mock-up, feel free to implement it, and be ready to explain your choice to do so.
 - The dataset used for this search is available in the [`dataset/`](./dataset) folder.
   It contains 5000 restaurants: [`restaurants.json`](./dataset/restaurants.json).
+  Note: the API it is based upon is not up-to-date anymore.
+  You can use any placeholder you'd like (here's [an example one](https://placeimg.com/160/160/arch)).
 - Feel free to use any front-end tooling with which you&rsquo;re most comfortable.  
 - The blue highlight in the sidebar is an active/hover state.
 - For payment options, we should **only** have: AMEX/American Express, Visa, Discover, and MasterCard.  
