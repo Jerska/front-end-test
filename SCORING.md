@@ -10,6 +10,4 @@
 | Craft a search experience that is simple to understand? | | |
 | Account for different use cases (e.g. mobile, touch) | | |
 | Complete the assignment in an efficient manner? | | |
-| Go beyond what was asked of them? | | | |
 | Ask for clarification when necessary? | | |
-| How long did the candidate spend on the assignment (in hours)? | | |
